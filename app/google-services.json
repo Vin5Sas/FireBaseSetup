@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "200694620479",
+    "firebase_url": "https://firstfire-246fe.firebaseio.com",
+    "project_id": "firstfire-246fe",
+    "storage_bucket": "firstfire-246fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200694620479:android:206862e86529a394",
+        "android_client_info": {
+          "package_name": "com.admin.sampfbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200694620479-p034u9vbqhsfsu4b3eldjgdnq9bi1koc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9sJahJTiQ1IwNw3lsU68vZLpRKfwQsSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
